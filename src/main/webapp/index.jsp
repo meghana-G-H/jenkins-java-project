@@ -14,11 +14,11 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> Nan netflix.</h2>
+      <h2> welcome to netflix.</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>Nim email-id harki pa!!!!!</label>
+          <label>Enter your email id</label>
         </div>
         <div class="form-control">
           <input type="password" required />
