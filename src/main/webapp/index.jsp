@@ -21,7 +21,7 @@
         </div>
         <div class="form-control">
           <input type="password" required />
-          <label>enter password</label>
+          <label>enter the password</label>
         </div>
         <button type="submit">WELCOME TO NETFLIX V-5.0</button>
         <div class="form-help">
